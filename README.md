@@ -12,4 +12,4 @@ npm run dev
 
 *Deployment*
 
-push to main and/or link with vercel in progress-tracker via _vercel link_
+push to main and/or link with vercel in progress_tracker via _vercel link_
